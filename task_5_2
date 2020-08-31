@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  border: 20px solid black;
+  background-color: red;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+</style>
+</head>
+<body>
+<div>
+
+<h2>Hello World!</h2>
+</div>
+<p>. A simple sentence (sometimes called an independent clause) is a sentence that contains a subject and a predicate (a verb). It also must express a complete thought. </p>
+
+</body>
+</html>
