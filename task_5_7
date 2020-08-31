@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.right {
+  float: right;
+  width: 200px;
+  border: 3px solid #73AD21;
+  padding: 30px;
+}
+.left {
+  float: left;
+  width: 200px;
+  border: 3px solid #73AD21;
+  padding: 30px;
+</style>
+</head>
+<body>
+<div class="left">
+<h1>courses</h1>
+  <p>Computer Programming Through C</p>
+  <p>Data Structures</p>
+  <p>Computer Graphics</p>
+</div>
+<div class="right">
+<h1>scores</h1>
+<p>80</p>
+<p>83</p>
+<p>75</p>
+</body>
+</html>
