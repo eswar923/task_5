@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="https://courses.conduiraonline.com/">Home</a></li>
+  <li><a href="https://www.conduiraonline.com/campus-placements-recruitment-training">News</a></li>
+  <li><a href="https://www.conduiraonline.com/index.php/detail/827-contact-conduira">Contact</a></li>
+  <li><a href="https://www.conduiraonline.com/index.php/about-us">About</a></li>
+</ul>
+
+</body>
+</html>
+
